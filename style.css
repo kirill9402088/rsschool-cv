@@ -1,0 +1,15 @@
+main {
+    width: 1024px;
+    margin: 10px auto;
+}
+
+pre {
+    background: silver;
+    width: 50%;
+    height: 100%;
+}
+
+img {
+    height: 300px;
+    width: 200px;
+}
